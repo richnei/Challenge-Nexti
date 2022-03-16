@@ -173,12 +173,12 @@ h2 {
 }
 
 .list li.active .author {
-  color: #999;
+  color: black;
 }
 
 label {
   display: block;
-  color: #999;
+  color: black;
   margin-bottom: 5px;
 }
 
